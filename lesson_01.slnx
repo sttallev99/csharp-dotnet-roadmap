@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="deposit_calculator/deposit_calculator.csproj" />
+  <Project Path="lesson_01/lesson_01.csproj" />
+  <Project Path="part_07/part_07.csproj" />
+  <Project Path="radians_to_degrees/radians_to_degrees.csproj" />
+  <Project Path="task_02/task_02.csproj" />
+  <Project Path="task_03/task_03.csproj" />
+  <Project Path="task_04/task_04.csproj" />
+  <Project Path="task_05/task_05.csproj" />
+  <Project Path="task_06/task_06.csproj" />
+  <Project Path="task_08/task_08.csproj" />
+  <Project Path="task_09/task_09.csproj" />
+  <Project Path="usd_to_bgn/usd_to_bgn.csproj" />
+  <Project Path="vacation_books_list/vacation_books_list.csproj" />
+</Solution>
