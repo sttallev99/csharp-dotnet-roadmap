@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/phase2/">
     <Project Path="BankAcount/BankAcount.csproj" />
+    <Project Path="Shapes/Shapes.csproj" />
   </Folder>
   <Project Path="deposit_calculator/deposit_calculator.csproj" />
   <Project Path="lesson_01/lesson_01.csproj" />
