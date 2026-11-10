@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/phase2/">
     <Project Path="BankAcount/BankAcount.csproj" />
+    <Project Path="ConsoleApp1/Notifcation_system.csproj" />
     <Project Path="EmployeePayroll/EmployeePayroll.csproj" />
     <Project Path="Shapes/Shapes.csproj" />
     <Project Path="Shipping/Shipping.csproj" />
