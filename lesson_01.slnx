@@ -3,6 +3,7 @@
     <Project Path="BankAcount/BankAcount.csproj" />
     <Project Path="EmployeePayroll/EmployeePayroll.csproj" />
     <Project Path="Shapes/Shapes.csproj" />
+    <Project Path="Shipping/Shipping.csproj" />
   </Folder>
   <Project Path="deposit_calculator/deposit_calculator.csproj" />
   <Project Path="lesson_01/lesson_01.csproj" />
