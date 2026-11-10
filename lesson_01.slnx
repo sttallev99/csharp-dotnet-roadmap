@@ -6,6 +6,7 @@
   </Folder>
   <Project Path="deposit_calculator/deposit_calculator.csproj" />
   <Project Path="lesson_01/lesson_01.csproj" />
+  <Project Path="Money_and_adresses/Money_and_adresses.csproj" />
   <Project Path="part_07/part_07.csproj" />
   <Project Path="radians_to_degrees/radians_to_degrees.csproj" />
   <Project Path="task_02/task_02.csproj" />
