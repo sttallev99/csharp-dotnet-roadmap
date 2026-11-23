@@ -9,7 +9,10 @@
     <Project Path="Phase2/Shipping/Shipping.csproj" />
   </Folder>
   <Folder Name="/Phase3/">
+    <Project Path="Phase3/ConsoleApp1/ConsoleApp1.csproj" Id="755b24be-ca2c-4883-ad17-2ac68b106758" />
+    <Project Path="Phase3/Sales/Sales.csproj" Id="43c97534-de64-4d35-9f2d-92308337e827" />
     <Project Path="Phase3/WordFrequency/WordFrequency.csproj" />
+    <Project Path="Phase3/WorkingDays/WorkingDays.csproj" Id="f5b4942d-a2eb-49a8-bf11-161e642dca9d" />
   </Folder>
   <Project Path="deposit_calculator/deposit_calculator.csproj" />
   <Project Path="lesson_01/lesson_01.csproj" />
