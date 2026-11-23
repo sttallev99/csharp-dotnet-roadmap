@@ -1,16 +1,19 @@
 <Solution>
-  <Folder Name="/phase2/">
-    <Project Path="BankAcount/BankAcount.csproj" />
-    <Project Path="ConsoleApp1/Notifcation_system.csproj" />
-    <Project Path="EmployeePayroll/EmployeePayroll.csproj" />
-    <Project Path="Shapes/Shapes.csproj" />
-    <Project Path="Shipping/Shipping.csproj" />
+  <Folder Name="/Phase2/">
+    <Project Path="Phase2/BankAcount/BankAcount.csproj" />
+    <Project Path="Phase2/bank_account_phase2_OOP/bank_account_phase2_OOP.csproj" />
+    <Project Path="Phase2/ConsoleApp1/Notifcation_system.csproj" />
+    <Project Path="Phase2/EmployeePayroll/EmployeePayroll.csproj" />
+    <Project Path="Phase2/Money_and_adresses/Money_and_adresses.csproj" />
+    <Project Path="Phase2/Shapes/Shapes.csproj" />
+    <Project Path="Phase2/Shipping/Shipping.csproj" />
+  </Folder>
+  <Folder Name="/Phase3/">
+    <Project Path="Phase3/WordFrequency/WordFrequency.csproj" />
   </Folder>
   <Project Path="deposit_calculator/deposit_calculator.csproj" />
   <Project Path="lesson_01/lesson_01.csproj" />
-  <Project Path="Money_and_adresses/Money_and_adresses.csproj" />
   <Project Path="part_07/part_07.csproj" />
-  <Project Path="Phase3/ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="radians_to_degrees/radians_to_degrees.csproj" />
   <Project Path="task_02/task_02.csproj" />
   <Project Path="task_03/task_03.csproj" />
